@@ -1,0 +1,6 @@
+com/vodinhminhquang/fraud/FraudApplication.class
+com/vodinhminhquang/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/vodinhminhquang/fraud/FraudCheckHistory.class
+com/vodinhminhquang/fraud/FraudCheckService.class
+com/vodinhminhquang/fraud/FraudController.class
+com/vodinhminhquang/fraud/FraudCheckHistoryRepository.class
