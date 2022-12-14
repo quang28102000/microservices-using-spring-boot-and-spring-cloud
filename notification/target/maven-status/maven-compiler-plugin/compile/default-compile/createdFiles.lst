@@ -4,5 +4,5 @@ com/vodinhminhquang/notification/NotificationController.class
 com/vodinhminhquang/notification/NotificationConfig.class
 com/vodinhminhquang/notification/NotificationRepository.class
 com/vodinhminhquang/notification/NotificationService.class
-com/vodinhminhquang/notification/NotificationApplication.class
 com/vodinhminhquang/notification/Notification.class
+com/amigoscode/notification/NotificationApplication.class

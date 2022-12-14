@@ -1,4 +1,4 @@
 com/vodinhminhquang/clients/notification/NotificationClient.class
 com/vodinhminhquang/clients/fraud/FraudCheckResponse.class
-com/vodinhminhquang/clients/notification/NotificationRequest.class
 com/vodinhminhquang/clients/fraud/FraudClient.class
+com/vodinhminhquang/clients/notification/NotificationRequest.class
